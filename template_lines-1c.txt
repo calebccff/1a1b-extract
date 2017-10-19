@@ -1,0 +1,33 @@
+Date of last contract review meeting requested
+Date of last contract review meeting held
+Date of project strategy presentation to DoO requested
+Date of project strategy presentation to doO held
+Date of visit by COO requested
+Date of visit by COO held
+Date of internal PC handover requested
+Date of internat PC handover held
+Date of completion strategy presentation requested
+Date of completion strategy presentation held
+Date of launch workshop requested
+Date of launch workshop held
+Date of intermediate workshop requested
+Date of intermediate workshop held
+Date of handover workshop requested
+Date of handover workshop held
+Date of close out workshop requested
+Date of close out workshop held
+Date of first health check requested
+Date of first health check held
+Date of workshop 1 requested
+Date of workshop 1 held
+Date of workshop 2 requested
+Date of workshop 2 held
+Date of workshop 3 requested
+Date of workshop 3 held
+Date of workshop 4 requested
+Date of workshop 4 held
+Programme strategy
+Subcontractors key to completion
+Commercial strategy
+Entitlement strategy
+Client strategy

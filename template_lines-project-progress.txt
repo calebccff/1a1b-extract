@@ -1,0 +1,19 @@
+Week 0 - end of w/c
+Week 0 - min buffer size
+Week 0 - min buffer size reqd
+Week 0 - Larger than min required buffer size
+Week 0 - Actual buffer
+Week 0 - Chart buffer size
+Week 0 - Chart buffer size %
+Week 0 - Red zone
+Week 0 - Red zone upper limit
+Week 0 - Yellow zone
+Week 0 - Yellow zone upper limit
+Week 0 - Green zone
+Week 0 - Contract programme progress
+Week 0 - Delivery programme progress
+Week 0 - Size of buffer remaining
+Week 0 - Buffer remaining
+Week 0 - Buffer status
+Week 0 - Design info req schedule progress
+Week 0 - Sub-contract procurement schedule

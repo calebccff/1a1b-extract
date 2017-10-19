@@ -1,0 +1,152 @@
+Predicted monthly T/O
+Actual monthly T/O
+Planned next month T/O
+Avg monthly T/O
+Planned site trade last month
+Actual site trade last month
+Site trade difference
+Planned site trade next month
+CIS AFR
+CVC AFR
+Target AFR
+Movement (month) (AFR)
+Projection AFR
+Explanation
+Electrical planned quote received date
+Electrical planned quote paid date
+Electrical planned mains laid date
+Electrical planned service connection date
+Electrical planned mpan numbers received
+Electrical planned meters installed
+Electrical actual quote received date
+Electrical actual quote paid date
+Electrical actual mains laid date
+Electrical actual service connection date
+Electrical actual mpan numbers received
+Electrical actual meters installed
+Gas planned quote received date
+Gas planned quote paid date
+Gas planned mains laid date
+Gas planned service connection date
+Gas planned mpan numbers received
+Gas planned meters installed
+Gas actual quote received date
+Gas actual quote paid date
+Gas actual mains laid date
+Gas actual service connection date
+Gas actual mpan numbers received
+Gas actual meters installed
+Water planned quote received date
+Water planned quote paid date
+Water planned mains laid date
+Water planned service connection date
+Water planned mpan numbers received
+Water planned meters installed
+Water actual quote received date
+Water actual quote paid date
+Water actual mains laid date
+Water actual service connection date
+Water actual mpan numbers received
+Water actual meters installed
+Telecom planned quote received date
+Telecom planned quote paid date
+Telecom planned mains laid date
+Telecom planned service connection date
+Telecom planned mpan numbers received
+Telecom planned meters installed
+Telecom actual quote received date
+Telecom actual quote paid date
+Telecom actual mains laid date
+Telecom actual service connection date
+Telecom actual mpan numbers received
+Telecom actual meters installed
+Other planned quote received date
+Other planned quote paid date
+Other planned mains laid date
+Other planned service connection date
+Other planned mpan numbers received
+Other planned meters installed
+Other actual quote received date
+Other actual quote paid date
+Other actual mains laid date
+Other actual service connection date
+Other actual mpan numbers received
+Other actual meters installed
+Milestone 1 agreed date
+Milestone 2 agreed date
+Milestone 3 agreed date
+Milestone 4 agreed date
+Milestone 5 agreed date
+Milestone 6 agreed date
+Milestone 7 agreed date
+Milestone 8 agreed date
+Milestone 9 agreed date
+Milestone 10 agreed date
+Milestone 11 agreed date
+Milestone 12 agreed date
+Milestone 13 agreed date
+Milestone 14 agreed date
+Milestone 15 agreed date
+Milestone 16 agreed date
+Milestone 17 agreed date
+Milestone 18 agreed date
+Milestone 19 agreed date
+Milestone 20 agreed date
+Milestone 21 agreed date
+Milestone 22 agreed date
+Milestone 23 agreed date
+Milestone 24 agreed date
+Milestone 25 agreed date
+Milestone 26 agreed date
+Milestone 1 delivery date
+Milestone 2 delivery date
+Milestone 3 delivery date
+Milestone 4 delivery date
+Milestone 5 delivery date
+Milestone 6 delivery date
+Milestone 7 delivery date
+Milestone 8 delivery date
+Milestone 9 delivery date
+Milestone 10 delivery date
+Milestone 11 delivery date
+Milestone 12 delivery date
+Milestone 13 delivery date
+Milestone 14 delivery date
+Milestone 15 delivery date
+Milestone 16 delivery date
+Milestone 17 delivery date
+Milestone 18 delivery date
+Milestone 19 delivery date
+Milestone 20 delivery date
+Milestone 21 delivery date
+Milestone 22 delivery date
+Milestone 23 delivery date
+Milestone 24 delivery date
+Milestone 25 delivery date
+Milestone 26 delivery date
+Forecasted buffer at milestone 1
+Forecasted buffer at milestone 2
+Forecasted buffer at milestone 3
+Forecasted buffer at milestone 4
+Forecasted buffer at milestone 5
+Forecasted buffer at milestone 6
+Forecasted buffer at milestone 7
+Forecasted buffer at milestone 8
+Forecasted buffer at milestone 9
+Forecasted buffer at milestone 10
+Forecasted buffer at milestone 11
+Forecasted buffer at milestone 12
+Forecasted buffer at milestone 13
+Forecasted buffer at milestone 14
+Forecasted buffer at milestone 15
+Forecasted buffer at milestone 16
+Forecasted buffer at milestone 17
+Forecasted buffer at milestone 18
+Forecasted buffer at milestone 19
+Forecasted buffer at milestone 20
+Forecasted buffer at milestone 21
+Forecasted buffer at milestone 22
+Forecasted buffer at milestone 23
+Forecasted buffer at milestone 24
+Forecasted buffer at milestone 25
+Forecasted buffer at milestone 26
